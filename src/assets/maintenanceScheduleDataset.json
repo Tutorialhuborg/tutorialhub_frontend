@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Maintenance Schedule",
+    "date": "Mar 15th",
+    "time": "00.00 - 23.59 (24 hour)",
+    "location": "All systems",
+    "can_reschedule": true
+  },
+  {
+    "id": "2",
+    "title": "Maintenance Schedule",
+    "date": "Mar 15th",
+    "time": "00.00 - 23.59 (24 hour)",
+    "location": "All systems",
+    "can_reschedule": true
+  }
+]

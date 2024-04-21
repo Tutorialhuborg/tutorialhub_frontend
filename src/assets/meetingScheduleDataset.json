@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "meet_title": "ML - Class 5",
+    "time": "11.00 - 12.00 (1 hour)",
+    "location": "Zoom with ",
+    "can_reschedule": false,
+    "participants": [
+      {
+        "id": "1",
+        "user": "adam",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "2",
+        "user": "sarah",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "3",
+        "user": "bub",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "4",
+        "user": "mary",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "5",
+        "user": "jane",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "6",
+        "user": "alli",
+        "profile": "/logo.png"
+      },
+      {
+        "id": "7",
+        "user": "paul",
+        "profile": "/logo.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "meet_title": "Tutee Meeting",
+    "time": "12.30 - 14.00 (30 min)",
+    "location": "Microsoft Teams with ",
+    "can_reschedule": false,
+    "participants": [
+      {
+        "id": "1",
+        "user": "adam",
+        "profile": "/logo.png"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "meet_title": "Tutee Meeting",
+    "time": "15.30 - 16.00 (30 min)",
+    "location": "Microsoft Teams with ",
+    "can_reschedule": false,
+    "participants": [
+      {
+        "id": "1",
+        "user": "adam",
+        "profile": "/logo.png"
+      }
+    ]
+  }
+]

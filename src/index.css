@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "NunitoSans";
+  src: url("./assets/fonts/NunitoSans-Medium.ttf");
+}
+
+body {
+  color: #101828;
+  font-family: "NunitoSans";
+}
+
+.webkit-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+.button-gradient {
+  background: linear-gradient(98.41deg, #4568dc 0%, #b06ab3 100%);
+}
+
+td,
+th {
+  padding: 8px;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+  -webkit-appearance: textfield;
+}
+
+.loader-img {
+  animation: image_zoom 2s linear 0s infinite forwards;
+  transition: all;
+}
+
+@keyframes image_zoom {
+  0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

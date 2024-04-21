@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "user": "adam",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "2",
+    "user": "sarah",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "3",
+    "user": "bub",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "4",
+    "user": "mary",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "5",
+    "user": "jane",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "6",
+    "user": "alli",
+    "profile": "/logo.png"
+  },
+  {
+    "id": "7",
+    "user": "paul",
+    "profile": "/logo.png"
+  }
+]
